@@ -123,6 +123,6 @@ Platforms       => GitHub, VS Code, Google Colab, MySQL
 ---
 
 <p align="center">
-  ⚡ *"Learning never exhausts the mind, it only ignites it!"*  
+  ⚡ "Learning never exhausts the mind, it only ignites it!"  
 </p>
 
