@@ -48,6 +48,15 @@ I'm a passionate full-stack developer & ML enthusiast from India 🇮🇳 who lo
 - 🔎 Cosine similarity for intent detection
 - 🌐 Wikipedia fallback with query refinement
 - 💬 Streamlit UI with chat history
+- Live Link (https://chatbotv2.streamlit.app/)
+
+---
+### 🖼️ Image Compression with PCA
+> Dimensionality reduction-based tool for shrinking images.
+- 📉 50% smaller size
+- 💯 95% quality retained
+- 🧪 Built with Streamlit
+- Live Link (https://imagecompresor.streamlit.app)
 
 ---
 
@@ -63,7 +72,6 @@ I'm a passionate full-stack developer & ML enthusiast from India 🇮🇳 who lo
 > A 3D dark-themed calculator built with a futuristic UI.
 - ✨ Chrome extension with popup design
 - 🎯 Custom layout, accurate functionality
-- 🔗 Launching soon!
 
 ---
 
@@ -79,14 +87,6 @@ I'm a passionate full-stack developer & ML enthusiast from India 🇮🇳 who lo
 > AI-based tool to predict heart disease risks from medical data.
 - 🧠 Trained Logistic Regression & SVM models
 - 🔬 Feature-tuned for better accuracy
-
----
-
-### 🖼️ Image Compression with PCA
-> Dimensionality reduction-based tool for shrinking images.
-- 📉 50% smaller size
-- 💯 95% quality retained
-- 🧪 Built with Streamlit
 
 ---
 
