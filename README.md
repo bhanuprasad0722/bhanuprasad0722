@@ -14,8 +14,8 @@
 
 ```yaml
 Name: Bhanuprasad Chellapuram
-Code: Python | JavaScript | SQL | Java | HTML/CSS
-Tools: Flask, Pandas, Power BI, Streamlit, SentenceTransformer
+Code: Python | C | SQL | Java | HTML/CSS
+Tools: Flask, Excel, Power BI, Streamlit
 Interests:
   - Machine Learning 🤖
   - Web Development 🌐
@@ -38,8 +38,15 @@ A conversational AI chatbot designed for **interactive learning** and **quick kn
 - 📚 Real-time Wikipedia integration for answering factual questions
 - 💬 Streamlit UI with chat history and context
 - 🔁 Handles jokes, riddles, facts, programming queries, and more!
+- 🔗 [Live App](https://chatbotv2.streamlit.app/)
 
 **Tech Stack:** Python, Streamlit, SentenceTransformers, Wikipedia API, Scikit-learn
+
+---
+### 🖼️ Image Compression using PCA
+- Reduced image size by 50% while maintaining 95% quality  
+- Built with **Streamlit**  
+- 🔗 [Live App](https://imagecompresor.streamlit.app)
 
 ---
 
@@ -47,7 +54,6 @@ A conversational AI chatbot designed for **interactive learning** and **quick kn
 - 3D-themed dark UI 🔥
 - Responsive popup design in HTML/CSS/JS  
 - Replaced traditional layouts with custom UX!  
-- 🔗 *Available soon on Chrome Web Store*
 
 ---
 
@@ -62,13 +68,6 @@ A conversational AI chatbot designed for **interactive learning** and **quick kn
 - ML models like **Logistic Regression, SVM, Random Forest**
 - Accuracy boosted by **15%** using **feature tuning**
 - 💻 Built with scikit-learn & pandas
-
----
-
-### 🖼️ Image Compression using PCA
-- Reduced image size by 50% while maintaining 95% quality  
-- Built with **Streamlit**  
-- 🔗 [Live App](https://imagecompresor.streamlit.app)
 
 ---
 
@@ -104,12 +103,12 @@ Platforms       => GitHub, VS Code, Google Colab, MySQL
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhanuprasadchellapuram&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhanuprasadchellapuram&theme=tokyonight" alt="GitHub Streak" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=bhanuprasad0722&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhanuprasad0722&theme=tokyonight" alt="GitHub Streak" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhanuprasadchellapuram&layout=compact&theme=tokyonight" alt="Top Languages" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhanuprasad0722&layout=compact&theme=tokyonight" alt="Top Languages" width="48%"/>
 </p>
 
 ---
