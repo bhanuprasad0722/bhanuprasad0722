@@ -74,7 +74,7 @@ A conversational AI chatbot designed for **interactive learning** and **quick kn
 ## 🏆 Internships & Certifications
 
 - 👨‍🏫 **Code Unnati (Edunet + SAP)** – Python, ML
-- 🤖 **IBM SkillsBuild** – Chatbot NLP w/ Watson
+- 🤖 **IBM SkillsBuild** – Chatbot NLP IBM Watson Assistant
 - 📊 **Power BI Internship** – VOIS x AICTE
 - 🧠 **AI-ML Internship** – AICTE + EduSkills
 - 📈 **Accenture Simulation** – Data Analysis
