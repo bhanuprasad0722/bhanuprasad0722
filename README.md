@@ -93,12 +93,12 @@ I'm a passionate full-stack developer & ML enthusiast from India 🇮🇳 who lo
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhanuprasadchellapuram&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=bhanuprasadchellapuram&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=bhanuprasad0722&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=bhanuprasad0722&theme=tokyonight&hide_border=true" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhanuprasadchellapuram&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhanuprasad0722&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
 </p>
 
 ---
