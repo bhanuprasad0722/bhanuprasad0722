@@ -1,7 +1,7 @@
 
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://github-readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=488F71&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Bhanuprasad+🚀;ML+Engineer+%7C+Web+Dev+%7C+Data+Analyst;Turning+Ideas+Into+Impactful+Projects!" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2CI'm+Bhanuprasad;ML+Engineer%2CWeb+Dev%2CData+Analyst+;Turning+ideas+Into+Projects!" alt="Typing SVG" /></a>
 </p>
 
 
@@ -12,7 +12,7 @@
 ---
 
 ## 💫 About Me
-I'm a passionate full-stack developer & ML enthusiast from India 🇮🇳 who loves building AI tools, browser extensions, and clean UIs that solve real-world problems.
+I'm a passionate full-stack developer & ML enthusiast from India who loves building AI tools, browser extensions, and clean UIs that solve real-world problems.
 
 ---
 
