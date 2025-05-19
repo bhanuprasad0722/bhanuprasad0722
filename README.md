@@ -1,8 +1,6 @@
 
 <!-- Profile Banner -->
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2CI'm+Bhanuprasad;ML+Engineer%2CWeb+Dev%2CData+Analyst+;Turning+ideas+Into+Projects!" alt="Typing SVG" /></a>
-</p>
+  <a align = "center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2CI'm+Bhanuprasad;ML+Engineer%2CWeb+Dev%2CData+Analyst+;Turning+ideas+Into+Projects!" alt="Typing SVG" /></a>
 
 
 <p align="center">
