@@ -43,6 +43,22 @@ I'm a passionate full-stack developer & ML enthusiast from India 🇮🇳 who lo
 
 ## 🚀 Featured Projects
 
+### 🛡️ Phikita: AI-Based Phishing Website Detector  
+> An intelligent phishing URL classifier with a full admin dashboard and real-time prediction system.  
+🔍 Uses **ABS-CNN deep learning model** trained on the **Phikita dataset**.  
+📊 Visual dashboards with prediction history and model performance.  
+
+- 🔐 Detects phishing vs legitimate URLs using real-time feature engineering  
+- 📈 Accuracy: **96.7%** using advanced CNN + attention mechanism  
+- 🧠 Custom training pipeline with feature extraction and retraining  
+- ⚙️ Tech: `Django`, `Keras`, `Sklearn`, `Joblib`, `Matplotlib`  
+- 👤 User and Admin login system with activity logging  
+- 🔄 Dataset upload + automatic retraining  
+- 📬 Contact form for user queries  
+
+🖥️ **[GitHub Repo](https://github.com/YOUR_USERNAME/phikita-phishing-detector)** <!-- Replace with actual repo link -->
+
+
 ### 🧠 Wikipedia Chatbot (NLP + Wikipedia API)
 > A smart chatbot powered by sentence embeddings that answers questions using Wikipedia content.
 - 🔎 Cosine similarity for intent detection
