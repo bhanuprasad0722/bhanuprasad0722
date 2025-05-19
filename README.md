@@ -56,7 +56,7 @@ I'm a passionate full-stack developer & ML enthusiast from India 🇮🇳 who lo
 - 🔄 Dataset upload + automatic retraining  
 - 📬 Contact form for user queries  
 
-🖥️ **[GitHub Repo](https://github.com/YOUR_USERNAME/phikita-phishing-detector)** <!-- Replace with actual repo link -->
+🖥️ **[GitHub Repo](https://github.com/bhanuprasad0722/phishing_detector)** <!-- Replace with actual repo link -->
 
 
 ### 🧠 Wikipedia Chatbot (NLP + Wikipedia API)
