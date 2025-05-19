@@ -1,8 +1,9 @@
 
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Bhanuprasad+🚀;ML+Engineer+%7C+Web+Dev+%7C+Data+Analyst;Turning+Ideas+Into+Impactful+Projects!&center=true&width=1000&height=45">
+  <img src="https://github-readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=488F71&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Bhanuprasad+🚀;ML+Engineer+%7C+Web+Dev+%7C+Data+Analyst;Turning+Ideas+Into+Impactful+Projects!" />
 </p>
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" />
